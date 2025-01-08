@@ -1,0 +1,32 @@
+body {
+  font-family: Verdana, sans-serif;
+}
+
+h1 {
+  font-weight: 1000;
+  background-color: darkmagenta;
+  color: white;
+  text-align: center;
+}
+
+h2 {
+  font-weight: 600;
+  background-color: hotpink;
+  color: yellowgreen;
+  font-size: 22px;
+}
+
+h3 {
+  font-weight: 200;
+  font-family: "Brush Script MT", cursive;
+  color: darkslateblue;
+}
+
+.table-of-contents {
+  font-size: 22px;
+}
+
+img.main {
+  width: 200px;
+  height: auto;
+}
